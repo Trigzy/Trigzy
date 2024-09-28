@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!! I'm a computer science student i still starting out but id love to colaborate and make cool stuff!
 
 <!--
 **Trigzy/Trigzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
